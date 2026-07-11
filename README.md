@@ -6,7 +6,7 @@ Un lugar para mi laboratorio personal, una flota de agentes de IA ~~self-hosted 
 - **Failure Library** → [1chava.com/en](https://1chava.com/en)
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><b>English</b></summary>
 <br>
 
 A home for my personal lab, a fleet of AI agents ~~self-hosted on bare-metal Kubernetes~~ and my `post-mortems` on every way I break the lab.
